@@ -36,3 +36,14 @@
 Front-end teams, agencies and businesses shipping immersive, design-led 3D websites — with AI coding workflows built in.
 
 > The website is the canonical commercial source; these repositories provide the implementation depth.
+
+## Connect
+
+- Website: https://aetumi.app
+- X: https://x.com/AETumiCorp
+- LinkedIn: https://www.linkedin.com/in/jason-ai/
+- YouTube: https://www.youtube.com/@AETumiCorp
+- Facebook: https://www.facebook.com/AETumi
+- TikTok: https://www.tiktok.com/@AETumi
+- Reddit: https://www.reddit.com/user/Zealousideal-Bell393/
+- Pinterest: https://www.pinterest.com/aetumic/
