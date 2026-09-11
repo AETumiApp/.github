@@ -2,7 +2,7 @@
 
 # AETumi
 
-**AI-native 3D web platform and digital business ecosystem** — production-ready Three.js and WebGL websites, Next.js and React components, 3D scenes, AI prompts, and MCP workflows for AI coding assistants (Claude Code, Cursor, Codex), plus a Visual CMS, CRM, SEO, AI chatbot and payments to launch and operate the site.
+**AI-native platform for premium 3D web** and digital business ecosystem — production-ready Three.js and WebGL websites, Next.js and React components, 3D scenes, AI prompts, and MCP workflows for AI coding assistants (Claude Code, Cursor, Codex), plus a Visual CMS, CRM, SEO, AI chatbot and payments to launch and operate the site.
 
 [Website](https://aetumi.app) · [3D Websites](https://aetumi.app/3d-websites/) · [Three.js](https://aetumi.app/threejs/) · [WebGL](https://aetumi.app/webgl/) · [MCP](https://aetumi.app/mcp/) · [Docs](https://aetumi.app/docs/) · [Pricing](https://aetumi.app/pricing/)
 
