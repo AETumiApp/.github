@@ -8,6 +8,19 @@
 
 </div>
 
+## What you can build
+
+Premium, cinematic websites and interactive experiences — complete 3D sites and landing pages, 3D and video hero sections, interactive sections, product showcases and viewers, scroll-driven stories and WebGL effects — built on Three.js, WebGL, React and Next.js, with the editable source.
+
+## Who it serves
+
+- **Businesses** — a differentiated, premium presence for product launches, campaigns and product storytelling.
+- **Agencies** — a reusable delivery system for cinematic client sites, from prototype to handoff.
+- **Designers** — creative control over composition, motion, lighting and art direction.
+- **Developers** — production engineering: SSR, accessibility, performance budgets, WebGL fallbacks and clean resource lifecycles.
+
+The layers stack: premium experience → customer outcome → product & experience → customization → AI-assisted workflow → production engineering. The website is the canonical commercial source; these repositories are the implementation depth.
+
 ## Technology graph
 
 `AETumi → 3D Web → Three.js → WebGL → Next.js → React → React Three Fiber → MCP → Claude Code / Cursor / Codex`
