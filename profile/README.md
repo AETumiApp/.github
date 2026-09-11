@@ -8,6 +8,25 @@
 
 </div>
 
+## AETumi Labs — live interactive experiences
+
+Nine production-grade WebGL experiences, one per industry — each a distinct rendering and interaction system you own the source of. Open, orbit and inspect:
+
+| Experience | Industry | Live |
+|---|---|---|
+| **AURA** — cinematic 3D configurator | Automotive | [aetumi.app/labs/automotive](https://aetumi.app/labs/automotive/) |
+| **PULSE** — audio-reactive particle field | Music | [aetumi.app/labs/music](https://aetumi.app/labs/music/) |
+| **AZURE** — real-time WebGL ocean & sky | Travel & Hospitality | [aetumi.app/labs/travel](https://aetumi.app/labs/travel/) |
+| **VAULT** — immersive 3D product page | E-commerce | [aetumi.app/labs/ecommerce](https://aetumi.app/labs/ecommerce/) |
+| **DRAPE** — GPU silk / cloth deformation | Fashion | [aetumi.app/labs/fashion](https://aetumi.app/labs/fashion/) |
+| **ELIXIR** — transmission-glass product viewer | Beauty | [aetumi.app/labs/cosmetics](https://aetumi.app/labs/cosmetics/) |
+| **ATLAS** — architectural spatial walkthrough | Real Estate | [aetumi.app/labs/real-estate](https://aetumi.app/labs/real-estate/) |
+| **FORGE** — exploded-view engineering blueprint | Industrial | [aetumi.app/labs/industrial](https://aetumi.app/labs/industrial/) |
+| **LEDGER** — data & network visualization globe | Fintech | [aetumi.app/labs/fintech](https://aetumi.app/labs/fintech/) |
+
+Browse all nine in the **[AETumi Labs gallery](https://aetumi.app/labs/)** — first-party, free, interactive references.
+
+
 ## What you can build
 
 Premium, cinematic websites and interactive experiences — complete 3D sites and landing pages, 3D and video hero sections, interactive sections, product showcases and viewers, scroll-driven stories and WebGL effects — built on Three.js, WebGL, React and Next.js, with the editable source.
